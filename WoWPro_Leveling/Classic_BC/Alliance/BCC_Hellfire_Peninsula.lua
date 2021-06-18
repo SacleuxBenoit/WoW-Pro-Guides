@@ -8,18 +8,18 @@ WoWPro:GuideQuestTriggers(guide,10119,28708)
 WoWPro:GuideSteps(guide, function()
 return [[
 
-F Nethergarde Keep|AVAILABLE|10288|N|Fly to Nethergarde Keep in the Blasted Lands.|
-B Nethergarde Bitter|AVAILABLE|9563|L|23848 1|N|Buy a Nethergarde Bitter from Bernie Heisten in Nethergarde Keep.|M|63.51,17.01|Z|Blasted Lands|
-R Hellfire Peninsula|AVAILABLE|10288|N|Go through the portal to Hellfire Peninsula.|M|58.74,60.78|Z|Blasted Lands|
-A Through the Dark Portal|QID|10119|M|58.32,55.91|Z|Blasted Lands|N|From Watch Commander Relthorn Netherwane.|
-T Through the Dark Portal|QID|10119|M|87.34,50.74|N|To Commander Duron.|
-A Arrival in Outland|QID|10288|M|87.3,50.7|N|From Commander Duron.|
-T Arrival in Outland|QID|10288|M|87.4,52.4|N|To Amish Wildhammer.|
-A Journey to Honor Hold|QID|10140|PRE|10288|M|87.4,52.4|N|From Amish Wildhammer.|
-F Honor Hold|QID|10140|N|Fly to Honor Hold.|M|87.4,52.4|
-T Journey to Honor Hold|QID|10140|M|54.70,62.79|N|To Marshal Isildor.|
-A Force Commander Danath|QID|10254|LEAD|10160|PRE|10140|M|54.70,62.79|N|From Marshal Isildor.|
-h Honor Hold |ACTIVE|10254|N|Set your hearthstone to Honor Hold. |M|54.20,63.60|
+F Rempart-du-néant : Terres foudroyées|AVAILABLE|10288|N|Vol jusqu'au rempart-du-néant au terres foudroyées.|
+B Bière amère de rempart-du-néant|AVAILABLE|9563|L|23848 1|N|Achetez une bière de rempart-du-néant à Bernie Heisten.|M|63.51,17.01|Z|terres foudroyées|
+R Péninsule des flammes infernales|AVAILABLE|10288|N|Passez le portail vers la péninsule des Flammes infernales.|M|58.74,60.78|Z|terres foudroyées|
+A à travers la porte des ténèbres|QID|10119|M|58.32,55.91|Z|terres foudroyées|N|De : Conseiller Sevel.|
+T à travers la porte des ténèbres|QID|10119|M|87.34,50.74|N|à : Commandant Duron.|
+A Arrivée en Outreterre|QID|10288|M|87.3,50.7|N|de : Commandant Duron.|
+T Arrivée en Outreterre|QID|10288|M|87.4,52.4|N|à : Amish Marteau-hardi.|
+A En route pour le bastion de l'Honneur|QID|10140|PRE|10288|M|87.4,52.4|N|de : Amish Marteau-hardi.|
+F Bastion de l'honneur|QID|10140|N|Vol jusqu'au bastion de l'honneur.|M|87.4,52.4|
+T En route pour le bastion de l'Honneur|QID|10140|M|54.70,62.79|N|à : Maréchal Isildor.|
+A Le commandant Danath|QID|10254|LEAD|10160|PRE|10140|M|54.70,62.79|N|de : Maréchal Isildor.|
+h Bastion de l'honneur |ACTIVE|10254|N|Mettre la pierre de foyer. |M|54.20,63.60|
 T Force Commander Danath|QID|10254|M|56.64,66.69|N|To Force Commander Danath Trollbane.|
 A The Legion Reborn|QID|10141|M|56.64,66.69|N|From Force Commander Danath Trollbane.|
 A Know your Enemy|QID|10160|LEAD|10482|M|56.64,66.69|N|From Force Commander Danath Trollbane.|
