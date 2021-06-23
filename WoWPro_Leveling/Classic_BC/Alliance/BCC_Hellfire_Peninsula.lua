@@ -20,26 +20,26 @@ F Bastion de l'honneur|QID|10140|N|Vol jusqu'au bastion de l'honneur.|M|87.4,52.
 T En route pour le bastion de l'Honneur|QID|10140|M|54.70,62.79|N|à : Maréchal Isildor.|
 A Le commandant Danath|QID|10254|LEAD|10160|PRE|10140|M|54.70,62.79|N|de : Maréchal Isildor.|
 h Bastion de l'honneur |ACTIVE|10254|N|Mettre la pierre de foyer. |M|54.20,63.60|
-T Force Commander Danath|QID|10254|M|56.64,66.69|N|To Force Commander Danath Trollbane.|
-A The Legion Reborn|QID|10141|M|56.64,66.69|N|From Force Commander Danath Trollbane.|
-A Know your Enemy|QID|10160|LEAD|10482|M|56.64,66.69|N|From Force Commander Danath Trollbane.|
-A Waste Not, Want Not|QID|10055|M|51.26,59.98|N|From Dumphry.|
-T Know your Enemy|QID|10160|M|50.91,60.19|N|To Lieutenant Amadi.|
-A Fel Orc Scavengers|QID|10482|M|50.91,60.19|N|From Lieutenant Amadi.|
-C Waste Not, Want Not|S|N|Loot Metal Cogs and Wooden Planks off the ground until you finish this quest.|QID|10055|M|60.4,52.1|
-C Fel Orc Scavengers|N|Kill Orcs until you finish this quest.|QID|10482|M|62.00,54.00|
-C Waste Not, Want Not|N|Loot Metal Cogs/Poles and Wooden Planks off the ground until you finish this quest.|QID|10055|M|60.4,52.1|US|
-T Waste Not, Want Not|QID|10055|M|51.26,59.98|N|To Dumphry.|
-A Laying Waste to the Unwanted|QID|10078|PRE|10055|M|51.26,59.98|N|From Dumphry.|
-T Fel Orc Scavengers|QID|10482|M|50.91,60.19|N|To Lieutenant Amadi.|
-A Ill Omens|QID|10483|PRE|10482|M|50.91,60.19|N|From Lieutenant Amadi.|
-T The Legion Reborn|QID|10141|M|61.7,60.8|N|To Sergeant Altumus.|
-A The Path of Anguish|QID|10142|PRE|10141|M|61.7,60.8|N|From Sergeant Altumus.|
-C The Path of Anguish|N|Kill the mobs needed for this quest.|QID|10142|M|65.00,58.00|
-C Burn Catapult 1|QID|10078|N|Burn the first thrower here with the Flaming Torch. |QO|1|U|26002|M|58.50,46.80|
-C Burn Catapult 2|QID|10078|N|Burn the second thrower here with the Flaming Torch. |QO|2|U|26002|M|55.85,46.75|
-C Burn Catapult 3|QID|10078|N|Burn the third thrower here with the Flaming Torch. |QO|3|U|26002|M|53.50,47.20|
-C Laying Waste to the Unwanted|N|Burn the last thrower here.|QO|4|QID|10078|U|26002|M|52.80,47.20|
+T Le commandant Danath|QID|10254|M|56.64,66.69|N|à : Commandant de corps Danath Trollemort.|
+A La renaissance de la Légion|QID|10141|M|56.64,66.69|N|de : Commandant de corps Danath Trollemort.|
+A Connais ton adversaire|QID|10160|LEAD|10482|M|56.64,66.69|N|de : Commandant de corps Danath Trollemort.|
+A Faut pas gâcher|QID|10055|M|51.26,59.98|N|de : Dumphry.|
+T Connais ton adversaire|QID|10160|M|50.91,60.19|N|à : Lieutenant Amadi.|
+A Les charognards gangr'orcs|QID|10482|M|50.91,60.19|N|de : Lieutenant Amadi.|
+C Faut pas gâcher|S|N|Ramassez les rouages en métal et les planches de bois sur le sol jusqu'à ce que vous ayez terminé cette quête.|QID|10055|M|60.4,52.1|
+C Les charognards gangr'orcs|N|Tuez des Orcs jusqu'à ce que vous ayez terminé cette quête.|QID|10482|M|62.00,54.00|
+C Faut pas gâcher|N|Ramassez les rouages en métal et les planches de bois sur le sol jusqu'à ce que vous ayez terminé cette quête.|QID|10055|M|60.4,52.1|US|
+T Faut pas gâcher|QID|10055|M|51.26,59.98|N|à : Dumphry.|
+A Anéantir les indésirables|QID|10078|PRE|10055|M|51.26,59.98|N|de : Dumphry.|
+T Les charognards gangr'orcs|QID|10482|M|50.91,60.19|N|à Lieutenant Amadi.|
+A Mauvais présages|QID|10483|PRE|10482|M|50.91,60.19|N|de : Lieutenant Amadi.|
+T La renaissance de la Légion|QID|10141|M|61.7,60.8|N|à : Sergeant Altumus.|
+A Le Chemin de l'angoisse|QID|10142|PRE|10141|M|61.7,60.8|N|de : Sergeant Altumus.|
+C Le Chemin de l'angoisse|N|Tuez les monstres nécessaires à cette quête.|QID|10142|M|65.00,58.00|
+C brule la catapule 1|QID|10078|N|Brûlez le premier engin de siège ici avec la torche enflammée. |QO|1|U|26002|M|58.50,46.80|
+C brule la catapule 2|QID|10078|N|Brûlez le second engin de siège ici avec la torche enflammée. |QO|2|U|26002|M|55.85,46.75|
+C brule la catapule 3|QID|10078|N|Brûlez le troisième engin de siège ici avec la torche enflammée. |QO|3|U|26002|M|53.50,47.20|
+C Anéantir les indésirables|N|Brûlez le dernier engin ici.|QO|4|QID|10078|U|26002|M|52.80,47.20|
 R Temple of Telhamat|AVAILABLE|9390|M|46.05,44.13;34.11,45.87;28.72,45.55;23.23,40.64|CC|N|Run to the Temple of Telhamat.|
 A Deadly Predators|QID|9398|M|23.4,39.7|N|From Scout Vanura.|
 A In Search of Sedai|QID|9390|M|23.01,40.37|N|From Anchorite Obadei.|
